@@ -9,7 +9,7 @@ I have started from 1st June in this Challenge. And this repository contains my 
 ### Questions : 
 #### Day-01 : 
 **Invert Binary Tree :** 
->Invert Binary Tree
+>Invert a binary tree
 
 **Example :**
 
