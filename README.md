@@ -205,3 +205,32 @@ Output: 1
 + The answer is guaranteed to fit into signed 32-bit integer
 
 ***
+
+#### Day-05 : 
+**Power of Two :** 
+>Given an integer, write a function to determine if it is a power of two.
+
+**Example :**
+
+```
+
+Input: 1
+Output: true 
+Explanation: 20 = 1
+
+```
+```
+
+Input: 16
+Output: true
+Explanation: 24 = 16
+
+```
+```
+
+Input: 218
+Output: false
+
+```
+
+***
