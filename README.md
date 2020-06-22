@@ -558,6 +558,34 @@ If there are several possible values for h, the maximum one is taken as the h-in
 
 ***
 
+#### Day-19 : 
+**Longest Duplicate Substring :** 
+>Given a string `S`, consider all duplicated substrings: (contiguous) substrings of S that occur 2 or more times.  (The occurrences may overlap.)
+
+>Return **any** duplicated substring that has the longest possible length.  (If `S` does not have a duplicated substring, the answer is `""`.)
+
+**Example :**
+
+```
+
+Input: "banana"
+Output: "ana"
+
+```
+```
+
+Input: "abcd"
+Output: ""
+
+```
+
+**Constraints :**
+
++ `2 <= S.length <= 10^5`
++ `S` consists of lowercase English letters.
+
+***
+
 
 
 
