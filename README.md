@@ -677,6 +677,26 @@ Your algorithm should have a linear runtime complexity. Could you implement it w
 
 ***
 
+#### Day-23 : 
+**Count Complete Tree Nodes :** 
+>Given a complete binary tree, count the number of nodes.
+
+**Example :**
+```
+
+Input: 
+    1
+   / \
+  2   3
+ / \  /
+4  5 6
+
+Output: 6
+
+```
+
+***
+
 
 
 
