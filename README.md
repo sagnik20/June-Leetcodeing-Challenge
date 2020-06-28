@@ -7,6 +7,7 @@ I have started from 1st June in this Challenge. And this repository contains my 
 ## :rocket: Get Started
 
 ### Questions : 
+
 #### Day-01 : 
 **Invert Binary Tree :** 
 >Invert a binary tree
@@ -790,6 +791,28 @@ Therefore, sum = 495 + 491 + 40 = 1026.
 
 ***
 
+#### Day-27 : 
+**Perfect Squares :** 
+>Given a positive integer n, find the least number of perfect square numbers (for example, `1, 4, 9, 16, ...`) which sum to n.
+
+**Example :**
+
+```
+
+Input: n = 12
+Output: 3 
+Explanation: 12 = 4 + 4 + 4.
+
+```
+```
+
+Input: n = 13
+Output: 2
+Explanation: 13 = 4 + 9.
+
+```
+
+***
 
 
 
