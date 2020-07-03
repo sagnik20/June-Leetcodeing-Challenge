@@ -936,7 +936,6 @@ Microsoft Student Partner, Student, Working for betterment of all, Competitive C
 <a href="https://instagram.com/sagnik20"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/instagram.svg?raw=true" width="60"></a>
 <a href="http://sagnikc.azurewebsites.net/"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/wordpress.svg?raw=true" width="60"></a>
 
-
 # Donate
 
 > If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
